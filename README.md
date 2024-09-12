@@ -1,7 +1,7 @@
 Welcome to my excel project folder!
 1. Download instruction:
-a. Click on the .xlsx file.
 <br>
+a. Click on the .xlsx file.
 b. On the top right corner, click on the three-dot button.
 c. Select download.
 
